@@ -83,3 +83,10 @@ git clone https://github.com/あなたのユーザー名/このプロジェク�
 | OS | Windows 10 |
 | Unity | 2022.3.60f1 |
 | エディタ | Visual Studio 2022 |
+
+## 🎮 ゲーム画面（スクリーンショット）
+
+![プレイ画像1](./screenshots/画像1.png)
+![プレイ画像2](./screenshots/画像2.png)
+![プレイ画像2](./screenshots/画像3.png)
+![プレイ画像2](./screenshots/画像4.png)
